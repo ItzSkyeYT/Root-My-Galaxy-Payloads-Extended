@@ -32,6 +32,7 @@ This repository maintains the firmware-specific files consumed by [Root My Galax
 | Galaxy S25 Ultra SM-S938B | `S938BXXSBCZG3` | 16 | 6.6.98 | Supported |
 | Galaxy S25 Edge SM-S937B | `S937BXXU8CZF1` | 16 | 6.6.98 | Verified exact-match support |
 | Galaxy S25 Ultra SM-S938B | `S938BXXUCZZI4` | 17 / One UI 9 beta | 6.6.127 | Hardware validated |
+| Galaxy S25 Ultra SM-S938B | `S938BXXUCDZIF` | 17 / One UI 9 | 6.6.127 | Hardware validated |
 | Galaxy S25 SM-S931B | `S931BXXUCZZI4` | 17 / One UI 9 beta | 6.6.127 | Exact-match profile available |
 | Galaxy S25+ SM-S936B | compatible 6.6.98 builds | 16 | 6.6.98 | Advanced support (unvalidated) |
 
