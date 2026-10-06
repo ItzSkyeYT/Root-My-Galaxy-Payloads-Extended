@@ -4,8 +4,12 @@
     {
       "payloadId": "pa3q-S938BXXSBCZG3",
       "displayName": "Galaxy S25 Ultra SM-S938B | S938BXXSBCZG3",
-      "models": ["SM-S938B"],
-      "kernelVersions": ["6.6.98"],
+      "models": [
+        "SM-S938B"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
       "exactMatch": {
         "manufacturer": "samsung",
         "model": "SM-S938B",
@@ -46,8 +50,12 @@
     {
       "payloadId": "pa3q-S938BXXUCZZI4",
       "displayName": "Galaxy S25 Ultra SM-S938B | S938BXXUCZZI4",
-      "models": ["SM-S938B"],
-      "kernelVersions": ["6.6.127"],
+      "models": [
+        "SM-S938B"
+      ],
+      "kernelVersions": [
+        "6.6.127"
+      ],
       "exactMatch": {
         "manufacturer": "samsung",
         "model": "SM-S938B",
@@ -86,10 +94,60 @@
       }
     },
     {
+      "payloadId": "pa3q-S938BXXUCDZIF",
+      "displayName": "Galaxy S25 Ultra SM-S938B | S938BXXUCDZIF",
+      "models": [
+        "SM-S938B"
+      ],
+      "kernelVersions": [
+        "6.6.127"
+      ],
+      "exactMatch": {
+        "manufacturer": "samsung",
+        "model": "SM-S938B",
+        "device": "pa3q",
+        "buildDisplay": "CP2A.260605.016.S938BXXUCDZIF",
+        "buildFingerprint": "samsung/pa3qxeea/pa3q:17/CP2A.260605.016/S938BXXUCDZIF_OXMCDZIF:user/release-keys",
+        "kernelRelease": "6.6.127-android15-8-p33f4ffe-abogkiS938BXXUCDZIF-4k",
+        "kernelVersionInfo": "#1 SMP PREEMPT Sat Sep 19 07:11:26 UTC 2026",
+        "machine": "aarch64",
+        "sdk": 37,
+        "abi": "arm64-v8a",
+        "pageSize": 4096
+      },
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/igorcv88/Root-My-Galaxy-Payloads-Extended/main/artifacts/pa3q-S938BXXUCZZI4-v0300/cve-2026-43499-app.so",
+        "size": 104128,
+        "sha256": "14143d6c5385e4c46bd34dc335772e9d1bcae7f5c102e34a6b142b875395df2b"
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/igorcv88/Root-My-Galaxy-Payloads-Extended/main/kernelsu/ksud-pa3q-S938BXXUCZZI4-kdp-v3.3.0",
+        "size": 6664656,
+        "sha256": "d76b44c984b8d6f7121f712d8aa4e7cf0178ff36a8cd531bddaca9dd2fd361e2"
+      },
+      "rootHelper": {
+        "url": "https://raw.githubusercontent.com/igorcv88/Root-My-Galaxy-Payloads-Extended/main/artifacts/pa3q-S938BXXUCZZI4-v0300/cve-2026-43499-root",
+        "size": 32888,
+        "sha256": "4dd29619caae2b08aa491d7fcfc2e5d0d1ea11d0b6b9d1673d49f7580a40858f"
+      },
+      "routePolicy": {
+        "slideRoute": "auto",
+        "attempts": 24,
+        "attemptTimeoutSec": 120,
+        "p0AttemptTimeoutSec": 45,
+        "p0OffsetCache": true,
+        "prefersShellTransport": true
+      }
+    },
+    {
       "payloadId": "pa1q-S931BXXUCZZI4",
       "displayName": "Galaxy S25 SM-S931B | S931BXXUCZZI4",
-      "models": ["SM-S931B"],
-      "kernelVersions": ["6.6.127"],
+      "models": [
+        "SM-S931B"
+      ],
+      "kernelVersions": [
+        "6.6.127"
+      ],
       "exactMatch": {
         "manufacturer": "samsung",
         "model": "SM-S931B",
@@ -131,8 +189,12 @@
     {
       "payloadId": "psq-S937BXXU8CZF1",
       "displayName": "Galaxy S25 Edge SM-S937B | S937BXXU8CZF1",
-      "models": ["SM-S937B"],
-      "kernelVersions": ["6.6.98"],
+      "models": [
+        "SM-S937B"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
       "exactMatch": {
         "manufacturer": "samsung",
         "model": "SM-S937B",
@@ -169,8 +231,13 @@
     {
       "payloadId": "galaxy-s25-series-2026-06-07",
       "displayName": "Galaxy S25 / S25+ SM-S931B, SM-S936B | Kernel 6.6.98",
-      "models": ["SM-S931B", "SM-S936B"],
-      "kernelVersions": ["6.6.98"],
+      "models": [
+        "SM-S931B",
+        "SM-S936B"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/igorcv88/Root-My-Galaxy-Payloads-Extended/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app.so",
         "size": 104128,
